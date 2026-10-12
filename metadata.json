@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Loop Live",
+  "description": "Stream local video files continuously in an infinite loop to YouTube Live via RTMP with background service and auto-recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

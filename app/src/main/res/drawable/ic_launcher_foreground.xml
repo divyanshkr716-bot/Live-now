@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Live TV / Video Card -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,34 C28,30.686 30.686,28 34,28 L74,28 C77.314,28 80,30.686 80,34 L80,74 C80,77.314 77.314,80 74,80 L34,80 C30.686,80 28,77.314 28,74 Z" />
+    <!-- YouTube Red Inner Screen -->
+    <path
+        android:fillColor="#E62117"
+        android:pathData="M32,37 C32,34.79 33.79,33 36,33 L72,33 C74.21,33 76,34.79 76,37 L76,71 C76,73.21 74.21,75 72,75 L36,75 C33.79,75 32,73.21 32,71 Z" />
+    <!-- Play Triangle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,44 L64,54 L48,64 Z" />
+    <!-- Live Dot Pulse -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M69,38 A3,3 0 1,1 63,38 A3,3 0 1,1 69,38 Z" />
+    <!-- Loop Circular Arrows in White Overlay -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,23 C57.5,23 60.8,24.1 63.5,26 L66,22 L67,29 L60,29 L62.3,27.3 C60,25.7 57.1,24.8 54,24.8 C45.2,24.8 38,32 38,40.8 L36.2,40.8 C36.2,31 44.2,23 54,23 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,85 C50.5,85 47.2,83.9 44.5,82 L42,86 L41,79 L48,79 L45.7,80.7 C48,82.3 50.9,83.2 54,83.2 C62.8,83.2 70,76 70,67.2 L71.8,67.2 C71.8,77 63.8,85 54,85 Z" />
+</vector>
